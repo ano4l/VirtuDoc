@@ -1,0 +1,17 @@
+node_modules/
+uploads/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+server-*.out.log
+server-*.err.log
+server.out.log
+server.err.log
+.env
+.env.local
+.env.production
+.vercel/
+.DS_Store
+Thumbs.db
+
