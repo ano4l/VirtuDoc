@@ -897,3 +897,5 @@ window.addEventListener("keydown", (event) => {
   if (event.key === "Escape") { closeSheet(); if ($("#modal").open) $("#modal").close(); }
 });
 bootstrap();
+
+// wow this is some shit code
